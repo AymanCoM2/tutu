@@ -1,8 +1,8 @@
-import 'package:flutkit/apps/chat/chat_whatsapp_page.dart';
-import 'package:flutkit/apps/news/single_news_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './hatsapp_page.dart';
+import './_news_screen.dart';
+import './p_theme.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

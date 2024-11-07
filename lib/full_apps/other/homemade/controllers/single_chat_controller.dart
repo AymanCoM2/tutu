@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/homemade/models/chat.dart';
+import './homemade/models/chat.dart';
 import 'package:get/get.dart';
 
 class SingleChatController extends GetxController {

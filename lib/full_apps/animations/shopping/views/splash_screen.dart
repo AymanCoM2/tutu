@@ -1,11 +1,11 @@
-import 'package:flutkit/full_apps/animations/shopping/controllers/splash_controller.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_button.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/images.dart';
+import './ions/shopping/controllers/splash_controller.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './my_button.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
+import './
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

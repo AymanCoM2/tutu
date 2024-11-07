@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/other/estate/views/login_screen.dart';
-import 'package:flutkit/full_apps/other/estate/views/search_screen.dart';
+import './estate/views/login_screen.dart';
+import './estate/views/search_screen.dart';
 import 'package:get/get.dart';
 
 class SplashController extends GetxController {

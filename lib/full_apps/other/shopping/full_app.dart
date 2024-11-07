@@ -1,10 +1,10 @@
-import 'package:flutkit/full_apps/other/shopping/cart_screen.dart';
-import 'package:flutkit/full_apps/other/shopping/home_screen.dart';
-import 'package:flutkit/full_apps/other/shopping/profile_screen.dart';
-import 'package:flutkit/full_apps/other/shopping/search_screen.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/widgets/custom/navigation/custom_bottom_navigation.dart';
+import './shopping/cart_screen.dart';
+import './shopping/home_screen.dart';
+import './shopping/profile_screen.dart';
+import './shopping/search_screen.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './avigation/custom_bottom_navigation.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import 'package:provider/provider.dart';

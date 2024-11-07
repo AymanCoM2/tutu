@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/muvi/views/login_screen.dart';
+import './muvi/views/login_screen.dart';
 import 'package:get/get.dart';
 
 class SplashController extends GetxController {

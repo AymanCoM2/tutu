@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/theme/theme_type.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/theme/theme_type.dart';
 
 @Deprecated('message')
 class MaterialTheme {

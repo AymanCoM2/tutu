@@ -3,14 +3,14 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/apps/shopping/shopping_delivery_address_screen.dart';
-import 'package:flutkit/apps/shopping/shopping_order_status_screen.dart';
-import 'package:flutkit/helpers/extensions/widgets_extension.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_button.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './opping_delivery_address_screen.dart';
+import './opping_order_status_screen.dart';
+import './ns/widgets_extension.dart';
+import './p_theme.dart';
+import './my_button.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';

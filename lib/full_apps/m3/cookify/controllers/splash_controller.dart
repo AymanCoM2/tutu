@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/m3/cookify/views/login_screen.dart';
-import 'package:flutkit/full_apps/m3/cookify/views/register_screen.dart';
+import './kify/views/login_screen.dart';
+import './kify/views/register_screen.dart';
 import 'package:get/get.dart';
 
 class SplashController extends GetxController {

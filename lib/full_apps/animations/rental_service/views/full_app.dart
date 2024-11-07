@@ -1,13 +1,13 @@
-import 'package:flutkit/full_apps/animations/rental_service/controllers/full_app_controller.dart';
-import 'package:flutkit/full_apps/animations/rental_service/views/collection_screen.dart';
-import 'package:flutkit/full_apps/animations/rental_service/views/home_screen.dart';
-import 'package:flutkit/full_apps/animations/rental_service/views/profile_screen.dart';
-import 'package:flutkit/full_apps/animations/rental_service/views/saved_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_tab_indicator_style.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './ions/rental_service/controllers/full_app_controller.dart';
+import './ions/rental_service/views/collection_screen.dart';
+import './ions/rental_service/views/home_screen.dart';
+import './ions/rental_service/views/profile_screen.dart';
+import './ions/rental_service/views/saved_screen.dart';
+import './p_theme.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_tab_indicator_style.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

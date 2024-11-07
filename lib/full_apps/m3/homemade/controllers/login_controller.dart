@@ -1,6 +1,6 @@
-import 'package:flutkit/full_apps/m3/homemade/views/forgot_password_screen.dart';
-import 'package:flutkit/full_apps/m3/homemade/views/full_app.dart';
-import 'package:flutkit/full_apps/m3/homemade/views/register_screen.dart';
+import './emade/views/forgot_password_screen.dart';
+import './emade/views/full_app.dart';
+import './emade/views/register_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/m3/homemade/models/user.dart';
+import './emade/models/user.dart';
 import 'package:get/get.dart';
 
 class ProfileController extends GetxController {

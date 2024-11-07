@@ -1,11 +1,11 @@
-import 'package:flutkit/full_apps/other/cookify/views/home_screen.dart';
-import 'package:flutkit/full_apps/other/cookify/views/meal_plan_screen.dart';
-import 'package:flutkit/full_apps/other/cookify/views/profile_screen.dart';
-import 'package:flutkit/full_apps/other/cookify/views/showcase_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_bottom_navigation_bar.dart';
-import 'package:flutkit/helpers/widgets/my_bottom_navigation_bar_item.dart';
-import 'package:flutkit/helpers/widgets/my_text_style.dart';
+import './cookify/views/home_screen.dart';
+import './cookify/views/meal_plan_screen.dart';
+import './cookify/views/profile_screen.dart';
+import './cookify/views/showcase_screen.dart';
+import './p_theme.dart';
+import './my_bottom_navigation_bar.dart';
+import './my_bottom_navigation_bar_item.dart';
+import './my_text_style.dart';
 import 'package:flutter/material.dart';
 
 class CookifyFullApp extends StatefulWidget {

@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/m3/homemade/models/category.dart';
+import './emade/models/category.dart';
 import 'package:get/get.dart';
 
 class SingleShopController extends GetxController {

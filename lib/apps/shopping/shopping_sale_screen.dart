@@ -1,14 +1,14 @@
 import 'dart:async';
 
-import 'package:flutkit/apps/shopping/shopping_product_screen.dart';
-import 'package:flutkit/helpers/utils/generator.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './opping_product_screen.dart';
+import './nerator.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import './p_theme.dart';
 
 class ShoppingSaleScreen extends StatefulWidget {
   final BuildContext rootContext;

@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:flutkit/full_apps/other/muvi/models/movie.dart';
+import './muvi/models/movie.dart';
 import 'package:flutter/services.dart';
 
 class DownloadMovie {

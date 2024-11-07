@@ -1,12 +1,12 @@
 // ignore_for_file: unnecessary_string_escapes
 
-import 'package:flutkit/full_apps/other/cookify/models/date_time.dart';
-import 'package:flutkit/full_apps/other/cookify/models/meal_plan.dart';
-import 'package:flutkit/full_apps/other/cookify/views/recipe_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './cookify/models/date_time.dart';
+import './cookify/models/meal_plan.dart';
+import './cookify/views/recipe_screen.dart';
+import './p_theme.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 
 class CookifyMealPlanScreen extends StatefulWidget {

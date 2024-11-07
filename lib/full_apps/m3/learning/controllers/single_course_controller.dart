@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/m3/learning/models/recent_course.dart';
+import './rning/models/recent_course.dart';
 import 'package:get/get.dart';
 
 class SingleCourseController extends GetxController {

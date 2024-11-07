@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/dating/views/home_screen.dart';
+import './dating/views/home_screen.dart';
 import 'package:get/get.dart';
 
 class DatingSplashController extends GetxController {

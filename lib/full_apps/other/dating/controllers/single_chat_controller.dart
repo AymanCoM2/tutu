@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/dating/models/profile.dart';
+import './dating/models/profile.dart';
 import 'package:get/get.dart';
 
 class DatingSingleChatController extends GetxController {

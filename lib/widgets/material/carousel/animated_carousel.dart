@@ -5,9 +5,9 @@
 
 import 'dart:async';
 
-import 'package:flutkit/images.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'images.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 
 class AnimatedCarousel extends StatefulWidget {

@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/muvi/views/full_app.dart';
+import './muvi/views/full_app.dart';
 import 'package:get/get.dart';
 
 class ForgotPasswordController extends GetxController {

@@ -1,6 +1,6 @@
-import 'package:flutkit/animations/auth/teddy_controller.dart';
-import 'package:flutkit/helpers/utils/info_controller.dart';
-import 'package:flutkit/helpers/utils/my_string_utils.dart';
+import 'animations/auth/teddy_controller.dart';
+import 'helpers/utils/info_controller.dart';
+import 'helpers/utils/my_string_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,6 +1,6 @@
-import 'package:flutkit/full_apps/animations/shopping/models/product.dart';
-import 'package:flutkit/full_apps/animations/shopping/shopping_constants.dart';
-import 'package:flutkit/full_apps/animations/shopping/views/single_product_screen.dart';
+import './ions/shopping/models/product.dart';
+import './ions/shopping/shopping_constants.dart';
+import './ions/shopping/views/single_product_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

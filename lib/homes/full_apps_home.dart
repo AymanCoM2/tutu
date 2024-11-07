@@ -1,33 +1,26 @@
-import 'package:flutkit/full_apps/animations/nft/views/splash_screen.dart'
-    as nft;
-import 'package:flutkit/full_apps/animations/rental_service/views/splash_screen.dart'
-    as rental_service;
-import 'package:flutkit/full_apps/animations/shopping/views/splash_screen.dart'
-    as shopping;
-import 'package:flutkit/full_apps/animations/shopping_manager/views/login_screen.dart'
-    as shopping_manager;
-import 'package:flutkit/full_apps/m3/cookify/views/splash_screen.dart'
-    as cookify;
-import 'package:flutkit/full_apps/m3/dating/views/splash_screen.dart' as dating;
-import 'package:flutkit/full_apps/m3/estate/views/splash_screen.dart' as estate;
-import 'package:flutkit/full_apps/m3/homemade/views/splash_screen.dart'
-    as homemade;
-import 'package:flutkit/full_apps/m3/learning/views/splash_screen.dart'
-    as learning;
-import 'package:flutkit/full_apps/other/cookify/views/splash_screen.dart';
-import 'package:flutkit/full_apps/other/dating/views/splash_screen.dart';
-import 'package:flutkit/full_apps/other/estate/views/splash_screen.dart';
+import './ions/nft/views/splash_screen.dart' as nft;
+import './ions/rental_service/views/splash_screen.dart' as rental_service;
+import './ions/shopping/views/splash_screen.dart' as shopping;
+import './ions/shopping_manager/views/login_screen.dart' as shopping_manager;
+import './kify/views/splash_screen.dart' as cookify;
+import './ing/views/splash_screen.dart' as dating;
+import './ate/views/splash_screen.dart' as estate;
+import './emade/views/splash_screen.dart' as homemade;
+import './rning/views/splash_screen.dart' as learning;
+import './cookify/views/splash_screen.dart';
+import './dating/views/splash_screen.dart';
+import './estate/views/splash_screen.dart';
 
-import 'package:flutkit/full_apps/other/grocery/full_app.dart';
-import 'package:flutkit/full_apps/other/medicare/splash_screen.dart';
-import 'package:flutkit/full_apps/other/muvi/views/splash_screen.dart' as muvi;
-import 'package:flutkit/full_apps/other/shopping/full_app.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/homes/single_grid_item.dart';
+import './grocery/full_app.dart';
+import './medicare/splash_screen.dart';
+import './muvi/views/splash_screen.dart' as muvi;
+import './shopping/full_app.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
+import './d_item.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import 'package:provider/provider.dart';

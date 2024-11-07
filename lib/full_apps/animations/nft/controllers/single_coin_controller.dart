@@ -1,7 +1,7 @@
 import 'dart:math';
 
-import 'package:flutkit/full_apps/animations/nft/models/coin.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import './ions/nft/models/coin.dart';
+import './p_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';

@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/animations/rental_service/views/full_app.dart';
-import 'package:flutkit/helpers/utils/my_string_utils.dart';
+import './ions/rental_service/views/full_app.dart';
+import './_string_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

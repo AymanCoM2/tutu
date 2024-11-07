@@ -3,14 +3,14 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/apps/music/music_home_screen.dart';
-import 'package:flutkit/apps/music/music_player_screen.dart';
-import 'package:flutkit/apps/music/music_playlist_screen.dart';
-import 'package:flutkit/apps/music/music_podcast_screen.dart';
-import 'package:flutkit/apps/music/music_profile_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/utils/my_shadow.dart';
-import 'package:flutkit/helpers/widgets/my_card.dart';
+import './_home_screen.dart';
+import './_player_screen.dart';
+import './_playlist_screen.dart';
+import './_podcast_screen.dart';
+import './_profile_screen.dart';
+import './p_theme.dart';
+import './_shadow.dart';
+import './my_card.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

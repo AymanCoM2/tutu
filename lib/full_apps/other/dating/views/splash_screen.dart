@@ -1,8 +1,8 @@
-import 'package:flutkit/full_apps/other/dating/controllers/splash_controller.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_button.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './dating/controllers/splash_controller.dart';
+import './p_theme.dart';
+import './my_button.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -4,11 +4,11 @@
 * Version : 13
 * */
 
-import 'package:flutkit/homes/homes_screen.dart';
-import 'package:flutkit/helpers/localizations/app_localization_delegate.dart';
-import 'package:flutkit/helpers/localizations/language.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'homes/homes_screen.dart';
+import 'helpers/localizations/app_localization_delegate.dart';
+import 'helpers/localizations/language.dart';
+import 'helpers/theme/app_notifier.dart';
+import 'helpers/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
@@ -35,28 +35,27 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return Consumer<AppNotifier>(
         builder: (BuildContext context, AppNotifier value, Widget? child) {
-          return GetMaterialApp(
-            debugShowCheckedModeBanner: false,
-            theme: AppTheme.theme,
-            home: HomesScreen(),
-            builder: (context, child) {
-              return Directionality(
-                textDirection: AppTheme.textDirection,
-                child: child ?? Container(),
-              );
-            },
-            localizationsDelegates: [
-              AppLocalizationsDelegate(context),
-              // Add this line
-              GlobalMaterialLocalizations.delegate,
-              GlobalWidgetsLocalizations.delegate,
-              GlobalCupertinoLocalizations.delegate,
-            ],
-            supportedLocales: Language.getLocales(),
-            // home: IntroScreen(),
-            // home: CookifyShowcaseScreen(),
+      return GetMaterialApp(
+        debugShowCheckedModeBanner: false,
+        theme: AppTheme.theme,
+        home: HomesScreen(),
+        builder: (context, child) {
+          return Directionality(
+            textDirection: AppTheme.textDirection,
+            child: child ?? Container(),
           );
-        });
-
+        },
+        localizationsDelegates: [
+          AppLocalizationsDelegate(context),
+          // Add this line
+          GlobalMaterialLocalizations.delegate,
+          GlobalWidgetsLocalizations.delegate,
+          GlobalCupertinoLocalizations.delegate,
+        ],
+        supportedLocales: Language.getLocales(),
+        // home: IntroScreen(),
+        // home: CookifyShowcaseScreen(),
+      );
+    });
   }
 }

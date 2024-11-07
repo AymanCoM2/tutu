@@ -3,15 +3,15 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/apps/shopping/shopping_cart_screen.dart';
-import 'package:flutkit/apps/shopping/shopping_home_screen.dart';
-import 'package:flutkit/apps/shopping/shopping_profile_screen.dart';
-import 'package:flutkit/apps/shopping/shopping_sale_screen.dart';
-import 'package:flutkit/apps/shopping/shopping_search_screen.dart';
-import 'package:flutkit/helpers/localizations/language.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
+import './opping_cart_screen.dart';
+import './opping_home_screen.dart';
+import './opping_profile_screen.dart';
+import './opping_sale_screen.dart';
+import './opping_search_screen.dart';
+import './tions/language.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './my_container.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import 'package:provider/provider.dart';

@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/m3/homemade/models/shop.dart';
-import 'package:flutkit/full_apps/m3/homemade/views/location_dialog.dart';
+import './emade/models/shop.dart';
+import './emade/views/location_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

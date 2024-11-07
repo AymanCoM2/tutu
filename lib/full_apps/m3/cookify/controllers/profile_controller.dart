@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/m3/cookify/models/user.dart';
+import './kify/models/user.dart';
 import 'package:get/get.dart';
 
 class ProfileController extends GetxController {

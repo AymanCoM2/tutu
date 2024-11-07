@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/m3/cookify/models/full_recipe.dart';
+import './kify/models/full_recipe.dart';
 import 'package:get/get.dart';
 
 class RecipeController extends GetxController {

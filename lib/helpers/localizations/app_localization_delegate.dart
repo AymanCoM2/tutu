@@ -1,5 +1,5 @@
-import 'package:flutkit/helpers/localizations/language.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
+import 'helpers/localizations/language.dart';
+import 'helpers/theme/app_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/other/dating/models/profile.dart';
-import 'package:flutkit/full_apps/other/dating/views/single_chat_screen.dart';
+import './dating/models/profile.dart';
+import './dating/views/single_chat_screen.dart';
 import 'package:get/get.dart';
 
 class DatingSingleProfileController extends GetxController {

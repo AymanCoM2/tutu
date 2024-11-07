@@ -3,14 +3,14 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/apps/social/social_activity_screen.dart';
-import 'package:flutkit/apps/social/social_home_screen.dart';
-import 'package:flutkit/apps/social/social_search_screen.dart';
-import 'package:flutkit/apps/social/social_setting_screen.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/utils/my_shadow.dart';
-import 'package:flutkit/helpers/widgets/my_card.dart';
+import './al_activity_screen.dart';
+import './al_home_screen.dart';
+import './al_search_screen.dart';
+import './al_setting_screen.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './_shadow.dart';
+import './my_card.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import 'package:provider/provider.dart';

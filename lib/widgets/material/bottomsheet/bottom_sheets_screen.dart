@@ -4,16 +4,16 @@
 * Description :
 * */
 
-import 'package:flutkit/helpers/extensions/widgets_extension.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/material/bottomsheet/account_bottom_sheet.dart';
-import 'package:flutkit/widgets/material/bottomsheet/draggable_scrollable_bottom_sheet.dart';
-import 'package:flutkit/widgets/material/bottomsheet/file_manager_bottom_sheet.dart';
-import 'package:flutkit/widgets/material/bottomsheet/finger_print_lock_bottom_sheet.dart';
-import 'package:flutkit/widgets/material/bottomsheet/gallery_bottom_sheet.dart';
-import 'package:flutkit/widgets/material/bottomsheet/quick_action_bottom_sheet.dart';
-import 'package:flutkit/widgets/material/bottomsheet/simple_bottom_sheet.dart';
+import 'helpers/extensions/widgets_extension.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_text.dart';
+import 'widgets/material/bottomsheet/account_bottom_sheet.dart';
+import 'widgets/material/bottomsheet/draggable_scrollable_bottom_sheet.dart';
+import 'widgets/material/bottomsheet/file_manager_bottom_sheet.dart';
+import 'widgets/material/bottomsheet/finger_print_lock_bottom_sheet.dart';
+import 'widgets/material/bottomsheet/gallery_bottom_sheet.dart';
+import 'widgets/material/bottomsheet/quick_action_bottom_sheet.dart';
+import 'widgets/material/bottomsheet/simple_bottom_sheet.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

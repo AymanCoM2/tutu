@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/m3/estate/models/chat.dart';
-import 'package:flutkit/full_apps/m3/estate/views/single_chat_screen.dart';
+import './ate/models/chat.dart';
+import './ate/views/single_chat_screen.dart';
 import 'package:get/get.dart';
 
 class ChatController extends GetxController {

@@ -3,13 +3,13 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/apps/mail/mail_compose_screen.dart';
-import 'package:flutkit/apps/mail/mail_content_screen.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './ompose_screen.dart';
+import './ontent_screen.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import 'package:provider/provider.dart';

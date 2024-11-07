@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/m3/learning/models/chat.dart';
-import 'package:flutkit/full_apps/m3/learning/models/message.dart';
+import './rning/models/chat.dart';
+import './rning/models/message.dart';
 import 'package:get/get.dart';
 
 class SingleChatController extends GetxController {

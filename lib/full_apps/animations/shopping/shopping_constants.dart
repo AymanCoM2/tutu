@@ -1,6 +1,6 @@
-import 'package:flutkit/full_apps/animations/shopping/models/cart.dart';
-import 'package:flutkit/full_apps/animations/shopping/models/category.dart';
-import 'package:flutkit/full_apps/animations/shopping/models/product.dart';
+import './ions/shopping/models/cart.dart';
+import './ions/shopping/models/category.dart';
+import './ions/shopping/models/product.dart';
 
 class ShoppingCache {
   static List<Category>? categories;

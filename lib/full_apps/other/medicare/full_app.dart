@@ -1,10 +1,10 @@
-import 'package:flutkit/full_apps/other/medicare/chat_screen.dart';
-import 'package:flutkit/full_apps/other/medicare/home_screen.dart';
-import 'package:flutkit/full_apps/other/medicare/profile_screen.dart';
-import 'package:flutkit/full_apps/other/medicare/schedule_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_bottom_navigation_bar.dart';
-import 'package:flutkit/helpers/widgets/my_bottom_navigation_bar_item.dart';
+import './medicare/chat_screen.dart';
+import './medicare/home_screen.dart';
+import './medicare/profile_screen.dart';
+import './medicare/schedule_screen.dart';
+import './p_theme.dart';
+import './my_bottom_navigation_bar.dart';
+import './my_bottom_navigation_bar_item.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

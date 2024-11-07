@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:flutkit/full_apps/m3/homemade/models/product.dart';
-import 'package:flutkit/full_apps/m3/homemade/models/product_image.dart';
+import './emade/models/product.dart';
+import './emade/models/product_image.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

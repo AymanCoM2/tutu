@@ -1,6 +1,6 @@
-import 'package:flutkit/full_apps/animations/shopping/views/register_screen.dart';
-import 'package:flutkit/full_apps/animations/shopping/views/reset_password_screen.dart';
-import 'package:flutkit/helpers/utils/my_string_utils.dart';
+import './ions/shopping/views/register_screen.dart';
+import './ions/shopping/views/reset_password_screen.dart';
+import './_string_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

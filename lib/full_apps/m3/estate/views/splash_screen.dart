@@ -1,9 +1,9 @@
-import 'package:flutkit/full_apps/m3/estate/controllers/splash_controller.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/theme/constant.dart';
-import 'package:flutkit/helpers/widgets/my_card.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './ate/controllers/splash_controller.dart';
+import './p_theme.dart';
+import './nstant.dart';
+import './my_card.dart';
+import './my_container.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

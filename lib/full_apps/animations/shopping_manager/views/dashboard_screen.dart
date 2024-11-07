@@ -1,10 +1,10 @@
-import 'package:flutkit/full_apps/animations/shopping_manager/controllers/dashboard_controller.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/theme/constant.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/syncfusion/data/charts_sample_data.dart';
+import './ions/shopping_manager/controllers/dashboard_controller.dart';
+import './p_theme.dart';
+import './nstant.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
+import './on/data/charts_sample_data.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';

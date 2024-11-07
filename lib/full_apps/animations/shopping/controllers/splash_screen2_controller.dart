@@ -1,8 +1,8 @@
-import 'package:flutkit/full_apps/animations/shopping/models/cart.dart';
-import 'package:flutkit/full_apps/animations/shopping/models/category.dart';
-import 'package:flutkit/full_apps/animations/shopping/models/product.dart';
-import 'package:flutkit/full_apps/animations/shopping/shopping_constants.dart';
-import 'package:flutkit/full_apps/animations/shopping/views/full_app.dart';
+import './ions/shopping/models/cart.dart';
+import './ions/shopping/models/category.dart';
+import './ions/shopping/models/product.dart';
+import './ions/shopping/shopping_constants.dart';
+import './ions/shopping/views/full_app.dart';
 import 'package:get/get.dart';
 
 class SplashScreen2Controller extends GetxController {

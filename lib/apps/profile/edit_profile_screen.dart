@@ -5,11 +5,11 @@
 
 import 'dart:io';
 
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_button.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/helpers/widgets/my_text_style.dart';
+import './p_theme.dart';
+import './my_button.dart';
+import './my_container.dart';
+import './my_text.dart';
+import './my_text_style.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:lucide_icons/lucide_icons.dart';

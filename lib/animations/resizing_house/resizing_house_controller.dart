@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:flutkit/animations/resizing_house/house_controller.dart';
+import 'animations/resizing_house/house_controller.dart';
 import 'package:get/get.dart';
 
 class ResizingHouseController extends GetxController {
