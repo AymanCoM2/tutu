@@ -1,11 +1,11 @@
-import 'package:flutkit/helpers/extensions/widgets_extension.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/material/input/address_form.dart';
-import 'package:flutkit/widgets/material/input/date_timer_picker_screen.dart';
-import 'package:flutkit/widgets/material/input/feedback_form.dart';
-import 'package:flutkit/widgets/material/input/form_screen.dart';
-import 'package:flutkit/widgets/material/input/personal_information_form.dart';
+import 'helpers/extensions/widgets_extension.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_text.dart';
+import 'widgets/material/input/address_form.dart';
+import 'widgets/material/input/date_timer_picker_screen.dart';
+import 'widgets/material/input/feedback_form.dart';
+import 'widgets/material/input/form_screen.dart';
+import 'widgets/material/input/personal_information_form.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/animations/nft/views/login_screen.dart';
-import 'package:flutkit/full_apps/animations/nft/views/register_screen.dart';
+import './ions/nft/views/login_screen.dart';
+import './ions/nft/views/register_screen.dart';
 import 'package:get/get.dart';
 
 class SplashController extends GetxController {

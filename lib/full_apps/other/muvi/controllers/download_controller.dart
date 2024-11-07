@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/muvi/models/download_movie.dart';
+import './muvi/models/download_movie.dart';
 import 'package:get/get.dart';
 
 class DownloadController extends GetxController {

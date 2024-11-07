@@ -1,14 +1,14 @@
-import 'package:flutkit/full_apps/other/grocery/checkout_screen.dart';
-import 'package:flutkit/full_apps/other/grocery/coupon_screen.dart';
-import 'package:flutkit/full_apps/other/grocery/models/cart.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/utils/my_utils.dart';
-import 'package:flutkit/helpers/widgets/my_button.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_dashed_divider.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/helpers/widgets/my_text_style.dart';
+import './grocery/checkout_screen.dart';
+import './grocery/coupon_screen.dart';
+import './grocery/models/cart.dart';
+import './p_theme.dart';
+import './_utils.dart';
+import './my_button.dart';
+import './my_container.dart';
+import './my_dashed_divider.dart';
+import './my_spacing.dart';
+import './my_text.dart';
+import './my_text_style.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

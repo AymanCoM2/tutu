@@ -3,10 +3,10 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/images.dart';
-import 'package:flutkit/widgets/material/basic/full_image_screen.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_spacing.dart';
+import 'images.dart';
+import 'widgets/material/basic/full_image_screen.dart';
 import 'package:flutter/material.dart';
 
 class GridHeroScreen extends StatefulWidget {

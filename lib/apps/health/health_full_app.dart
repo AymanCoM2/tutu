@@ -3,14 +3,14 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/apps/health/health_activity_screen.dart';
-import 'package:flutkit/apps/health/health_home_screen.dart';
-import 'package:flutkit/apps/health/health_profile_screen.dart';
-import 'package:flutkit/apps/health/health_schedule_screen.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/utils/my_shadow.dart';
-import 'package:flutkit/helpers/widgets/my_card.dart';
+import './th_activity_screen.dart';
+import './th_home_screen.dart';
+import './th_profile_screen.dart';
+import './th_schedule_screen.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './_shadow.dart';
+import './my_card.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

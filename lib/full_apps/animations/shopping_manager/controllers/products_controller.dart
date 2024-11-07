@@ -1,6 +1,6 @@
-import 'package:flutkit/full_apps/animations/shopping_manager/model/product.dart';
-import 'package:flutkit/full_apps/animations/shopping_manager/shopping_cache.dart';
-import 'package:flutkit/full_apps/animations/shopping_manager/views/product_screen.dart';
+import './ions/shopping_manager/model/product.dart';
+import './ions/shopping_manager/shopping_cache.dart';
+import './ions/shopping_manager/views/product_screen.dart';
 import 'package:get/get.dart';
 
 enum ProductViewType { grid, list }

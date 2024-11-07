@@ -1,15 +1,15 @@
-import 'package:flutkit/helpers/extensions/extensions.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders/slider_interval_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders/slider_label_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders/slider_step_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders/slider_tooltip_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders/vertical_slider_interval_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders/vertical_slider_label_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders/vertical_slider_step_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders/vertical_slider_tooltip_screen.dart';
+import 'helpers/extensions/extensions.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_spacing.dart';
+import 'helpers/widgets/my_text.dart';
+import 'widgets/syncfusion/sliders/sliders/slider_interval_screen.dart';
+import 'widgets/syncfusion/sliders/sliders/slider_label_screen.dart';
+import 'widgets/syncfusion/sliders/sliders/slider_step_screen.dart';
+import 'widgets/syncfusion/sliders/sliders/slider_tooltip_screen.dart';
+import 'widgets/syncfusion/sliders/sliders/vertical_slider_interval_screen.dart';
+import 'widgets/syncfusion/sliders/sliders/vertical_slider_label_screen.dart';
+import 'widgets/syncfusion/sliders/sliders/vertical_slider_step_screen.dart';
+import 'widgets/syncfusion/sliders/sliders/vertical_slider_tooltip_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

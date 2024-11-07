@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/estate/models/agent.dart';
+import './estate/models/agent.dart';
 
 class House {
   final String name,

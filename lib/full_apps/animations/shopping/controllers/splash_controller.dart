@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/animations/shopping/views/login_screen.dart';
+import './ions/shopping/views/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

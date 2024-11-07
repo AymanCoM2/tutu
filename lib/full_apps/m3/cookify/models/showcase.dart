@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:flutkit/helpers/extensions/extensions.dart';
+import './ns/extensions.dart';
 import 'package:flutter/services.dart';
 
 class Showcase {

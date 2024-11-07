@@ -4,15 +4,15 @@
 * Description :
 * */
 
-import 'package:flutkit/helpers/extensions/extensions.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/syncfusion/gauges/sleep_gauge.dart';
-import 'package:flutkit/widgets/syncfusion/gauges/steps_gauge.dart';
-import 'package:flutkit/widgets/syncfusion/gauges/temperature_gauge.dart';
-import 'package:flutkit/widgets/syncfusion/gauges/thermometer_gauge.dart';
-import 'package:flutkit/widgets/syncfusion/gauges/water_gauge.dart';
+import 'helpers/extensions/extensions.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_spacing.dart';
+import 'helpers/widgets/my_text.dart';
+import 'widgets/syncfusion/gauges/sleep_gauge.dart';
+import 'widgets/syncfusion/gauges/steps_gauge.dart';
+import 'widgets/syncfusion/gauges/temperature_gauge.dart';
+import 'widgets/syncfusion/gauges/thermometer_gauge.dart';
+import 'widgets/syncfusion/gauges/water_gauge.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

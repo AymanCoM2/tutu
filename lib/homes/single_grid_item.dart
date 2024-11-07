@@ -3,12 +3,12 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import './p_theme.dart';
 
 class SingleGridItem extends StatelessWidget {
   final String title;

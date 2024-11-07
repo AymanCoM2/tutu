@@ -1,10 +1,10 @@
-import 'package:flutkit/full_apps/other/dating/controllers/single_profile_controller.dart';
-import 'package:flutkit/full_apps/other/dating/models/profile.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/loading_effect.dart';
+import './dating/controllers/single_profile_controller.dart';
+import './dating/models/profile.dart';
+import './p_theme.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
+import './art';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';

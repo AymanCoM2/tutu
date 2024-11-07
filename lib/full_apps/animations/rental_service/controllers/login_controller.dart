@@ -1,8 +1,8 @@
-import 'package:flutkit/full_apps/animations/rental_service/rental_service_cache.dart';
-import 'package:flutkit/full_apps/animations/rental_service/views/forgot_password_screen.dart';
-import 'package:flutkit/full_apps/animations/rental_service/views/full_app.dart';
-import 'package:flutkit/full_apps/animations/rental_service/views/register_screen.dart';
-import 'package:flutkit/helpers/utils/my_string_utils.dart';
+import './ions/rental_service/rental_service_cache.dart';
+import './ions/rental_service/views/forgot_password_screen.dart';
+import './ions/rental_service/views/full_app.dart';
+import './ions/rental_service/views/register_screen.dart';
+import './_string_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

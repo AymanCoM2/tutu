@@ -1,11 +1,11 @@
-import 'package:flutkit/animations/theme_changer/theme_changer_controller.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'animations/theme_changer/theme_changer_controller.dart';
+import 'helpers/widgets/my_container.dart';
+import 'helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'helpers/theme/app_theme.dart';
 
 class ThemeChangerScreen extends StatefulWidget {
   const ThemeChangerScreen({Key? key}) : super(key: key);

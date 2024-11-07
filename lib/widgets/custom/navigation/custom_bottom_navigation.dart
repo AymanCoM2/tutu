@@ -1,4 +1,4 @@
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 
 class CustomBottomNavigation extends StatelessWidget {

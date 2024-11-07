@@ -1,11 +1,11 @@
-import 'package:flutkit/helpers/extensions/extensions.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/range_selector/range_selector_bar_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/range_selector/range_selector_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/range_selector/range_selector_selection_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/range_selector/range_selector_zooming_screen.dart';
+import 'helpers/extensions/extensions.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_spacing.dart';
+import 'helpers/widgets/my_text.dart';
+import 'widgets/syncfusion/sliders/range_selector/range_selector_bar_screen.dart';
+import 'widgets/syncfusion/sliders/range_selector/range_selector_screen.dart';
+import 'widgets/syncfusion/sliders/range_selector/range_selector_selection_screen.dart';
+import 'widgets/syncfusion/sliders/range_selector/range_selector_zooming_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

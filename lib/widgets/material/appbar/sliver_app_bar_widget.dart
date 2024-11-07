@@ -3,9 +3,9 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/helpers/extensions/widgets_extension.dart';
-import 'package:flutkit/images.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'helpers/extensions/widgets_extension.dart';
+import 'images.dart';
+import 'helpers/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

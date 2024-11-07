@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/animations/shopping_manager/model/product.dart';
+import './ions/shopping_manager/model/product.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 

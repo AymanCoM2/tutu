@@ -1,15 +1,15 @@
-import 'package:flutkit/helpers/extensions/widgets_extension.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_button_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_date_picker_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_date_time_picker_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_picker_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_slider_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_switch_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_textfield_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_time_picker_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_timer_screen.dart';
+import 'helpers/extensions/widgets_extension.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_text.dart';
+import 'widgets/cupertino/form/cupertino_button_screen.dart';
+import 'widgets/cupertino/form/cupertino_date_picker_screen.dart';
+import 'widgets/cupertino/form/cupertino_date_time_picker_screen.dart';
+import 'widgets/cupertino/form/cupertino_picker_screen.dart';
+import 'widgets/cupertino/form/cupertino_slider_screen.dart';
+import 'widgets/cupertino/form/cupertino_switch_screen.dart';
+import 'widgets/cupertino/form/cupertino_textfield_screen.dart';
+import 'widgets/cupertino/form/cupertino_time_picker_screen.dart';
+import 'widgets/cupertino/form/cupertino_timer_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

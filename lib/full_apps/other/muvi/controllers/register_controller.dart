@@ -1,8 +1,8 @@
 import 'package:get/get.dart';
 
-import 'package:flutkit/full_apps/other/muvi/views/forgot_password_screen.dart';
-import 'package:flutkit/full_apps/other/muvi/views/full_app.dart';
-import 'package:flutkit/full_apps/other/muvi/views/login_screen.dart';
+import './muvi/views/forgot_password_screen.dart';
+import './muvi/views/full_app.dart';
+import './muvi/views/login_screen.dart';
 
 class RegisterController extends GetxController {
   bool showLoading = true, uiLoading = true;

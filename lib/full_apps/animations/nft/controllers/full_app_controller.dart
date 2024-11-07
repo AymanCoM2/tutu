@@ -1,7 +1,7 @@
-import 'package:flutkit/full_apps/animations/nft/views/home_screen.dart';
-import 'package:flutkit/full_apps/animations/nft/views/portfolio_screen.dart';
-import 'package:flutkit/full_apps/animations/nft/views/profile_screen.dart';
-import 'package:flutkit/full_apps/animations/nft/views/wallet_screen.dart';
+import './ions/nft/views/home_screen.dart';
+import './ions/nft/views/portfolio_screen.dart';
+import './ions/nft/views/profile_screen.dart';
+import './ions/nft/views/wallet_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';

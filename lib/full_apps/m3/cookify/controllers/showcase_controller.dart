@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/m3/cookify/models/category.dart';
-import 'package:flutkit/full_apps/m3/cookify/models/showcase.dart';
+import './kify/models/category.dart';
+import './kify/models/showcase.dart';
 import 'package:get/get.dart';
 
 class ShowcaseController extends GetxController {

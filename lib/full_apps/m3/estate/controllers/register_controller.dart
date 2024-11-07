@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/m3/estate/views/full_app_screen.dart';
-import 'package:flutkit/full_apps/m3/estate/views/login_screen.dart';
+import './ate/views/full_app_screen.dart';
+import './ate/views/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

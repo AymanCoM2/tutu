@@ -1,14 +1,14 @@
-import 'package:flutkit/full_apps/other/estate/controllers/single_estate_controller.dart';
-import 'package:flutkit/full_apps/other/estate/models/house.dart';
-import 'package:flutkit/full_apps/other/estate/views/single_agent_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_button.dart';
-import 'package:flutkit/helpers/widgets/my_card.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/helpers/widgets/my_text_style.dart';
-import 'package:flutkit/loading_effect.dart';
+import './estate/controllers/single_estate_controller.dart';
+import './estate/models/house.dart';
+import './estate/views/single_agent_screen.dart';
+import './p_theme.dart';
+import './my_button.dart';
+import './my_card.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
+import './my_text_style.dart';
+import './art';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

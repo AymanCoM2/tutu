@@ -1,7 +1,7 @@
-import 'package:flutkit/full_apps/m3/learning/views/forgot_password_screen.dart';
-import 'package:flutkit/full_apps/m3/learning/views/full_app.dart';
-import 'package:flutkit/full_apps/m3/learning/views/login_screen.dart';
-import 'package:flutkit/helpers/utils/my_string_utils.dart';
+import './rning/views/forgot_password_screen.dart';
+import './rning/views/full_app.dart';
+import './rning/views/login_screen.dart';
+import './_string_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

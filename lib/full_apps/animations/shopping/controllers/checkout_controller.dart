@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/animations/shopping/models/shipping_address.dart';
+import './ions/shopping/models/shipping_address.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

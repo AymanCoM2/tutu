@@ -1,11 +1,11 @@
-import 'package:flutkit/full_apps/other/grocery/models/category.dart';
-import 'package:flutkit/full_apps/other/grocery/models/product.dart';
-import 'package:flutkit/full_apps/other/grocery/single_product_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/utils/my_utils.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './grocery/models/category.dart';
+import './grocery/models/product.dart';
+import './grocery/single_product_screen.dart';
+import './p_theme.dart';
+import './_utils.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

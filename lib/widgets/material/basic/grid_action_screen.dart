@@ -3,11 +3,11 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/images.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_container.dart';
+import 'helpers/widgets/my_spacing.dart';
+import 'helpers/widgets/my_text.dart';
+import 'images.dart';
 import 'package:flutter/material.dart';
 
 class GridActionScreen extends StatefulWidget {

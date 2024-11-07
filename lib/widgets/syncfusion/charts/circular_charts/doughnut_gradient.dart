@@ -1,7 +1,7 @@
 import 'dart:ui' as ui;
 
-import 'package:flutkit/helpers/widgets/my_text_style.dart';
-import 'package:flutkit/widgets/syncfusion/data/charts_sample_data.dart';
+import 'helpers/widgets/my_text_style.dart';
+import 'widgets/syncfusion/data/charts_sample_data.dart';
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
 

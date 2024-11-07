@@ -4,15 +4,15 @@
 * Description :
 * */
 
-import 'package:flutkit/helpers/extensions/extensions.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/syncfusion/charts/other_charts/funnel_default.dart';
-import 'package:flutkit/widgets/syncfusion/charts/other_charts/funnel_label.dart';
-import 'package:flutkit/widgets/syncfusion/charts/other_charts/live_update.dart';
-import 'package:flutkit/widgets/syncfusion/charts/other_charts/pyramid_default.dart';
-import 'package:flutkit/widgets/syncfusion/charts/other_charts/pyramid_label.dart';
+import 'helpers/extensions/extensions.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_spacing.dart';
+import 'helpers/widgets/my_text.dart';
+import 'widgets/syncfusion/charts/other_charts/funnel_default.dart';
+import 'widgets/syncfusion/charts/other_charts/funnel_label.dart';
+import 'widgets/syncfusion/charts/other_charts/live_update.dart';
+import 'widgets/syncfusion/charts/other_charts/pyramid_default.dart';
+import 'widgets/syncfusion/charts/other_charts/pyramid_label.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

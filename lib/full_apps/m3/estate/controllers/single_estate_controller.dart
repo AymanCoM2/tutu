@@ -1,6 +1,6 @@
-import 'package:flutkit/full_apps/m3/estate/models/agent.dart';
-import 'package:flutkit/full_apps/m3/estate/models/house.dart';
-import 'package:flutkit/full_apps/m3/estate/views/single_agent_screen.dart';
+import './ate/models/agent.dart';
+import './ate/models/house.dart';
+import './ate/views/single_agent_screen.dart';
 import 'package:get/get.dart';
 
 class SingleEstateController extends GetxController {

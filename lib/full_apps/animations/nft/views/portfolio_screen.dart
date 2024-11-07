@@ -1,9 +1,9 @@
-import 'package:flutkit/full_apps/animations/nft/controllers/portfolio_controller.dart';
-import 'package:flutkit/full_apps/animations/nft/models/coin.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './ions/nft/controllers/portfolio_controller.dart';
+import './ions/nft/models/coin.dart';
+import './p_theme.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';

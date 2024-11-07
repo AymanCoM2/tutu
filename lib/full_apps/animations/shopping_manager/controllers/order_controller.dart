@@ -1,10 +1,10 @@
 import 'dart:collection';
 import 'dart:ui' as ui;
 
-import 'package:flutkit/full_apps/animations/shopping_manager/model/order.dart';
-import 'package:flutkit/full_apps/animations/shopping_manager/shopping_cache.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/theme/theme_type.dart';
+import './ions/shopping_manager/model/order.dart';
+import './ions/shopping_manager/shopping_cache.dart';
+import './p_theme.dart';
+import './eme_type.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';

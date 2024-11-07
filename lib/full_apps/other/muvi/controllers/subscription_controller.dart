@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/muvi/models/subscription.dart';
+import './muvi/models/subscription.dart';
 import 'package:get/get.dart';
 
 class SubscriptionController extends GetxController {

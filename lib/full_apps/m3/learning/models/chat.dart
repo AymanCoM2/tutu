@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:flutkit/full_apps/m3/learning/models/mentor.dart';
-import 'package:flutkit/full_apps/m3/learning/models/message.dart';
+import './rning/models/mentor.dart';
+import './rning/models/message.dart';
 import 'package:flutter/services.dart';
 
 class Chat {

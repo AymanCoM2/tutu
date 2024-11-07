@@ -1,13 +1,13 @@
-import 'package:flutkit/helpers/extensions/widgets_extension.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/widgets/material/basic/choice_chip_screen.dart';
-import 'package:flutkit/widgets/material/basic/flutx_two_tone_icons_screen.dart';
-import 'package:flutkit/widgets/material/basic/grid_action_screen.dart';
-import 'package:flutkit/widgets/material/basic/grid_hero_screen.dart';
-import 'package:flutkit/widgets/material/basic/grid_screen.dart';
-import 'package:flutkit/widgets/material/basic/simple_chip_screen.dart';
-import 'package:flutkit/widgets/material/basic/snackbar_screen.dart';
+import 'helpers/extensions/widgets_extension.dart';
+import 'helpers/theme/app_theme.dart';
+import 'helpers/widgets/my_text.dart';
+import 'widgets/material/basic/choice_chip_screen.dart';
+import 'widgets/material/basic/flutx_two_tone_icons_screen.dart';
+import 'widgets/material/basic/grid_action_screen.dart';
+import 'widgets/material/basic/grid_hero_screen.dart';
+import 'widgets/material/basic/grid_screen.dart';
+import 'widgets/material/basic/simple_chip_screen.dart';
+import 'widgets/material/basic/snackbar_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

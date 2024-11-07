@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/other/estate/models/category.dart';
-import 'package:flutkit/full_apps/other/estate/models/house.dart';
+import './estate/models/category.dart';
+import './estate/models/house.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

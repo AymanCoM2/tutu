@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/other/estate/models/house.dart';
+import './estate/models/house.dart';
 import 'package:get/get.dart';
 
 class EstateSingleEstateController extends GetxController {

@@ -1,5 +1,5 @@
-import 'package:flutkit/full_apps/other/muvi/models/movie.dart';
-import 'package:flutkit/full_apps/other/muvi/views/single_movie_screen.dart';
+import './muvi/models/movie.dart';
+import './muvi/views/single_movie_screen.dart';
 import 'package:get/get.dart';
 
 class ExploreController extends GetxController {

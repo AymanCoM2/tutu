@@ -1,9 +1,9 @@
-import 'package:flutkit/apps/food/food_login_screen.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_pages.dart';
-import 'package:flutkit/helpers/widgets/my_on_boarding.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './ogin_screen.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './my_pages.dart';
+import './my_on_boarding.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

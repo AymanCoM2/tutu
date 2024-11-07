@@ -1,9 +1,9 @@
-import 'package:flutkit/apps/food/food_favourite_screen.dart';
-import 'package:flutkit/apps/food/food_home_screen.dart';
-import 'package:flutkit/apps/food/food_location_screen.dart';
-import 'package:flutkit/apps/food/food_profile_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_card.dart';
+import './avourite_screen.dart';
+import './ome_screen.dart';
+import './ocation_screen.dart';
+import './rofile_screen.dart';
+import './p_theme.dart';
+import './my_card.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

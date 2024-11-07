@@ -1,12 +1,12 @@
-import 'package:flutkit/full_apps/m3/cookify/controllers/home_controller.dart';
-import 'package:flutkit/full_apps/m3/cookify/models/recipe.dart';
-import 'package:flutkit/full_apps/m3/cookify/views/recipe_screen.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_button.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/loading_effect.dart';
+import './kify/controllers/home_controller.dart';
+import './kify/models/recipe.dart';
+import './kify/views/recipe_screen.dart';
+import './p_theme.dart';
+import './my_button.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
+import './art';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,5 +1,5 @@
-import 'package:flutkit/helpers/localizations/translator.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'helpers/localizations/translator.dart';
+import 'helpers/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

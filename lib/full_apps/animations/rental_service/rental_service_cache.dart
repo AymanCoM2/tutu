@@ -1,4 +1,4 @@
-import 'package:flutkit/full_apps/animations/rental_service/models/car.dart';
+import './ions/rental_service/models/car.dart';
 
 class RentalServiceCache {
   static List<Car> cars = [];

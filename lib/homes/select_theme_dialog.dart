@@ -1,10 +1,10 @@
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/theme_type.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
+import './p_notifier.dart';
+import './eme_type.dart';
+import './my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import './p_theme.dart';
 
 class SelectThemeDialog extends StatefulWidget {
   @override

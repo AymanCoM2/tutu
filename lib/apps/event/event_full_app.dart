@@ -3,14 +3,14 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/apps/event/event_create_screen.dart';
-import 'package:flutkit/apps/event/event_home_screen.dart';
-import 'package:flutkit/apps/event/event_profile_screen.dart';
-import 'package:flutkit/apps/event/event_upcoming_screen.dart';
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/utils/my_shadow.dart';
-import 'package:flutkit/helpers/widgets/my_card.dart';
+import './_create_screen.dart';
+import './_home_screen.dart';
+import './_profile_screen.dart';
+import './_upcoming_screen.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './_shadow.dart';
+import './my_card.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import 'package:provider/provider.dart';

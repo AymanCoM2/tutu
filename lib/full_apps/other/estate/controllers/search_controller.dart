@@ -1,7 +1,7 @@
 import 'dart:ui' as ui;
 
-import 'package:flutkit/full_apps/other/estate/models/house.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
+import './estate/models/house.dart';
+import './p_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';

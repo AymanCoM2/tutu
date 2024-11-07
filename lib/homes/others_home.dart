@@ -3,23 +3,23 @@
 * Version : 1.0.0
 * */
 
-import 'package:flutkit/helpers/theme/app_notifier.dart';
-import 'package:flutkit/helpers/theme/app_theme.dart';
-import 'package:flutkit/helpers/widgets/my_container.dart';
-import 'package:flutkit/helpers/widgets/my_spacing.dart';
-import 'package:flutkit/helpers/widgets/my_text.dart';
-import 'package:flutkit/homes/single_grid_item.dart';
-import 'package:flutkit/images.dart';
-import 'package:flutkit/widgets/cupertino/dialog/cupertino_dialogs_screen.dart';
-import 'package:flutkit/widgets/cupertino/form/cupertino_inputs_screen.dart';
-import 'package:flutkit/widgets/syncfusion/charts/cartesian_chart_screen.dart';
-import 'package:flutkit/widgets/syncfusion/charts/circular_chart_screen.dart';
-import 'package:flutkit/widgets/syncfusion/charts/other_chart_screen.dart';
-import 'package:flutkit/widgets/syncfusion/date_range/date_ranges_screen.dart';
-import 'package:flutkit/widgets/syncfusion/gauges/gauges_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/range_selectors_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/range_sliders_screen.dart';
-import 'package:flutkit/widgets/syncfusion/sliders/sliders_screen.dart';
+import './p_notifier.dart';
+import './p_theme.dart';
+import './my_container.dart';
+import './my_spacing.dart';
+import './my_text.dart';
+import './d_item.dart';
+import './
+import './o/dialog/cupertino_dialogs_screen.dart';
+import './o/form/cupertino_inputs_screen.dart';
+import './on/charts/cartesian_chart_screen.dart';
+import './on/charts/circular_chart_screen.dart';
+import './on/charts/other_chart_screen.dart';
+import './on/date_range/date_ranges_screen.dart';
+import './on/gauges/gauges_screen.dart';
+import './on/sliders/range_selectors_screen.dart';
+import './on/sliders/range_sliders_screen.dart';
+import './on/sliders/sliders_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
