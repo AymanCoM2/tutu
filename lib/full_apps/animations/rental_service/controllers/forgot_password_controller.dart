@@ -1,6 +1,6 @@
-import './ions/rental_service/views/register_screen.dart';
-import './ions/rental_service/views/reset_password_screen.dart';
-import './_string_utils.dart';
+import 'package:flutkit/full_apps/animations/rental_service/views/register_screen.dart';
+import 'package:flutkit/full_apps/animations/rental_service/views/reset_password_screen.dart';
+import 'package:flutkit/helpers/utils/my_string_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

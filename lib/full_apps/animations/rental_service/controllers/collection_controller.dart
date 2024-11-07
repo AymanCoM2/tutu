@@ -1,6 +1,6 @@
-import './ions/rental_service/models/car.dart';
-import './ions/rental_service/rental_service_cache.dart';
-import './ions/rental_service/views/single_car_screen.dart';
+import 'package:flutkit/full_apps/animations/rental_service/models/car.dart';
+import 'package:flutkit/full_apps/animations/rental_service/rental_service_cache.dart';
+import 'package:flutkit/full_apps/animations/rental_service/views/single_car_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

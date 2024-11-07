@@ -4,8 +4,8 @@
 * Description :
 * */
 
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart' as intl;
 import 'package:syncfusion_flutter_core/theme.dart';

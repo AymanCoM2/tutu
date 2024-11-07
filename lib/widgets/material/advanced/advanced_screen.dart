@@ -1,11 +1,11 @@
-import 'helpers/extensions/extensions.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_text.dart';
-import 'widgets/material/advanced/animated_switcher_screen.dart';
-import 'widgets/material/advanced/google_map_screen.dart';
-import 'widgets/material/advanced/history_search_screen.dart';
-import 'widgets/material/advanced/simple_stepper_screen.dart';
-import 'widgets/material/advanced/timeline_stepper_screen.dart';
+import 'package:flutkit/helpers/extensions/extensions.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/material/advanced/animated_switcher_screen.dart';
+import 'package:flutkit/widgets/material/advanced/google_map_screen.dart';
+import 'package:flutkit/widgets/material/advanced/history_search_screen.dart';
+import 'package:flutkit/widgets/material/advanced/simple_stepper_screen.dart';
+import 'package:flutkit/widgets/material/advanced/timeline_stepper_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

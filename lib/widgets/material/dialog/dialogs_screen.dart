@@ -1,15 +1,15 @@
-import 'helpers/extensions/extensions.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_text.dart';
-import 'widgets/material/dialog/account_dialog.dart';
-import 'widgets/material/dialog/add_contact_dialog.dart';
-import 'widgets/material/dialog/comment_dialog.dart';
-import 'widgets/material/dialog/import_contact_dialog.dart';
-import 'widgets/material/dialog/permission_dialog.dart';
-import 'widgets/material/dialog/policy_dialog.dart';
-import 'widgets/material/dialog/post_dialog.dart';
-import 'widgets/material/dialog/simple_dialog_screen.dart';
+import 'package:flutkit/helpers/extensions/extensions.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/material/dialog/account_dialog.dart';
+import 'package:flutkit/widgets/material/dialog/add_contact_dialog.dart';
+import 'package:flutkit/widgets/material/dialog/comment_dialog.dart';
+import 'package:flutkit/widgets/material/dialog/import_contact_dialog.dart';
+import 'package:flutkit/widgets/material/dialog/permission_dialog.dart';
+import 'package:flutkit/widgets/material/dialog/policy_dialog.dart';
+import 'package:flutkit/widgets/material/dialog/post_dialog.dart';
+import 'package:flutkit/widgets/material/dialog/simple_dialog_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

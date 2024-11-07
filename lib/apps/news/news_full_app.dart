@@ -1,9 +1,9 @@
-import './eed_screen.dart';
-import './ome_screen.dart';
-import './rofile_screen.dart';
-import './ideo_screen.dart';
-import './p_theme.dart';
-import './avigation/custom_bottom_navigation.dart';
+import 'package:flutkit/apps/news/news_feed_screen.dart';
+import 'package:flutkit/apps/news/news_home_screen.dart';
+import 'package:flutkit/apps/news/news_profile_screen.dart';
+import 'package:flutkit/apps/news/news_video_screen.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/widgets/custom/navigation/custom_bottom_navigation.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

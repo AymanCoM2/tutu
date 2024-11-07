@@ -1,8 +1,8 @@
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_bottom_navigation_bar.dart';
-import 'helpers/widgets/my_bottom_navigation_bar_item.dart';
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_bottom_navigation_bar.dart';
+import 'package:flutkit/helpers/widgets/my_bottom_navigation_bar_item.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

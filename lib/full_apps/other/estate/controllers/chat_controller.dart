@@ -1,4 +1,4 @@
-import './estate/models/chat.dart';
+import 'package:flutkit/full_apps/other/estate/models/chat.dart';
 import 'package:get/get.dart';
 
 class EstateChatController extends GetxController {

@@ -1,5 +1,5 @@
-import './rning/models/course.dart';
-import './rning/views/edit_profile_screen.dart';
+import 'package:flutkit/full_apps/m3/learning/models/course.dart';
+import 'package:flutkit/full_apps/m3/learning/views/edit_profile_screen.dart';
 import 'package:get/get.dart';
 
 class ProfileController extends GetxController {

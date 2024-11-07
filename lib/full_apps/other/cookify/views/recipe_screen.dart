@@ -1,9 +1,9 @@
-import './cookify/models/full_recipe.dart';
-import './p_theme.dart';
-import './_utils.dart';
-import './my_container.dart';
-import './my_spacing.dart';
-import './my_text.dart';
+import 'package:flutkit/full_apps/other/cookify/models/full_recipe.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/my_utils.dart';
+import 'package:flutkit/helpers/widgets/my_container.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 
 class CookifyRecipeScreen extends StatefulWidget {

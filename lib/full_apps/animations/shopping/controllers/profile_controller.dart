@@ -1,4 +1,4 @@
-import './ions/shopping/views/subscription_screen.dart';
+import 'package:flutkit/full_apps/animations/shopping/views/subscription_screen.dart';
 import 'package:get/get.dart';
 
 class ProfileController extends GetxController {

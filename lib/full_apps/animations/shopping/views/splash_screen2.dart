@@ -1,6 +1,6 @@
-import './ions/shopping/controllers/splash_screen2_controller.dart';
-import './p_theme.dart';
-import './my_text.dart';
+import 'package:flutkit/full_apps/animations/shopping/controllers/splash_screen2_controller.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

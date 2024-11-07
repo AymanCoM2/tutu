@@ -1,11 +1,11 @@
 import 'dart:async';
 
-import './ions/shopping/models/category.dart';
-import './ions/shopping/models/product.dart';
-import './ions/shopping/shopping_constants.dart';
-import './ions/shopping/views/notification_screen.dart';
-import './ions/shopping/views/single_product_screen.dart';
-import './ions/shopping/views/subscription_screen.dart';
+import 'package:flutkit/full_apps/animations/shopping/models/category.dart';
+import 'package:flutkit/full_apps/animations/shopping/models/product.dart';
+import 'package:flutkit/full_apps/animations/shopping/shopping_constants.dart';
+import 'package:flutkit/full_apps/animations/shopping/views/notification_screen.dart';
+import 'package:flutkit/full_apps/animations/shopping/views/single_product_screen.dart';
+import 'package:flutkit/full_apps/animations/shopping/views/subscription_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_intro/flutter_intro.dart';
 import 'package:get/get.dart';

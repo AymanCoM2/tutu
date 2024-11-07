@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import './ate/models/agent.dart';
-import './ns/extensions.dart';
+import 'package:flutkit/full_apps/m3/estate/models/agent.dart';
+import 'package:flutkit/helpers/extensions/extensions.dart';
 import 'package:flutter/services.dart';
 
 class House {

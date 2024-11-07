@@ -1,12 +1,12 @@
 import 'dart:math';
 
-import 'animations/flip/flip_controller.dart';
-import 'helpers/widgets/my_text.dart';
+import 'package:flutkit/animations/flip/flip_controller.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 
-import 'helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
 
 class FlipScreen extends StatefulWidget {
   const FlipScreen({Key? key}) : super(key: key);

@@ -3,11 +3,11 @@
 * Version : 1.0.0
 * */
 
-import './_home_screen.dart';
-import './_location_screen.dart';
-import './_profile_screen.dart';
-import './p_theme.dart';
-import './my_card.dart';
+import 'package:flutkit/apps/hotel/hotel_home_screen.dart';
+import 'package:flutkit/apps/hotel/hotel_location_screen.dart';
+import 'package:flutkit/apps/hotel/hotel_profile_screen.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_card.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

@@ -1,7 +1,7 @@
-import './sample/_controller.dart';
-import './p_theme.dart';
-import './my_spacing.dart';
-import './my_text.dart';
+import 'package:flutkit/full_apps/other/sample/_controller.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

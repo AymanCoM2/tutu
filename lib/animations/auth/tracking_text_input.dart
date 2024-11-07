@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'animations/auth/input_helper.dart';
+import 'package:flutkit/animations/auth/input_helper.dart';
 import 'package:flutter/material.dart';
 
 typedef CaretMoved = void Function(Offset? globalCaretPosition);

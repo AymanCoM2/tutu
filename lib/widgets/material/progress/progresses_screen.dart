@@ -1,11 +1,11 @@
-import 'helpers/extensions/extensions.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_text.dart';
-import 'widgets/material/progress/create_account_progress.dart';
-import 'widgets/material/progress/fail_progress.dart';
-import 'widgets/material/progress/internet_check_progress.dart';
-import 'widgets/material/progress/payment_progress.dart';
-import 'widgets/material/progress/upload_progress.dart';
+import 'package:flutkit/helpers/extensions/extensions.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/material/progress/create_account_progress.dart';
+import 'package:flutkit/widgets/material/progress/fail_progress.dart';
+import 'package:flutkit/widgets/material/progress/internet_check_progress.dart';
+import 'package:flutkit/widgets/material/progress/payment_progress.dart';
+import 'package:flutkit/widgets/material/progress/upload_progress.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

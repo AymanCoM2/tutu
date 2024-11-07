@@ -1,8 +1,8 @@
-import './rning/models/course.dart';
-import './rning/models/module.dart';
-import './rning/models/recent_course.dart';
-import './rning/views/single_course_screen.dart';
-import './rning/views/subscription_screen.dart';
+import 'package:flutkit/full_apps/m3/learning/models/course.dart';
+import 'package:flutkit/full_apps/m3/learning/models/module.dart';
+import 'package:flutkit/full_apps/m3/learning/models/recent_course.dart';
+import 'package:flutkit/full_apps/m3/learning/views/single_course_screen.dart';
+import 'package:flutkit/full_apps/m3/learning/views/subscription_screen.dart';
 import 'package:get/get.dart';
 
 class HomeController extends GetxController {

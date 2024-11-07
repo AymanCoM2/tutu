@@ -1,12 +1,12 @@
-import 'helpers/extensions/widgets_extension.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_text.dart';
-import 'widgets/material/list/contact_list.dart';
-import 'widgets/material/list/dismissible_list.dart';
-import 'widgets/material/list/refresh_list.dart';
-import 'widgets/material/list/reorderable_list.dart';
-import 'widgets/material/list/selectable_list.dart';
-import 'widgets/material/list/wheel_list.dart';
+import 'package:flutkit/helpers/extensions/widgets_extension.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/material/list/contact_list.dart';
+import 'package:flutkit/widgets/material/list/dismissible_list.dart';
+import 'package:flutkit/widgets/material/list/refresh_list.dart';
+import 'package:flutkit/widgets/material/list/reorderable_list.dart';
+import 'package:flutkit/widgets/material/list/selectable_list.dart';
+import 'package:flutkit/widgets/material/list/wheel_list.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

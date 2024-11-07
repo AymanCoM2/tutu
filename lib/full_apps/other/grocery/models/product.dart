@@ -1,4 +1,4 @@
-import './nerator.dart';
+import 'package:flutkit/helpers/utils/generator.dart';
 
 class Product {
   final String name, description, image;

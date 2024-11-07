@@ -1,13 +1,13 @@
-import './se_exam_time_screen.dart';
-import './se_notification_screen.dart';
-import './se_subject_screen.dart';
-import './se_video_screen.dart';
-import './p_theme.dart';
-import './nerator.dart';
-import './my_container.dart';
-import './my_progress_bar.dart';
-import './my_spacing.dart';
-import './my_text.dart';
+import 'package:flutkit/apps/course/course_exam_time_screen.dart';
+import 'package:flutkit/apps/course/course_notification_screen.dart';
+import 'package:flutkit/apps/course/course_subject_screen.dart';
+import 'package:flutkit/apps/course/course_video_screen.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/generator.dart';
+import 'package:flutkit/helpers/widgets/my_container.dart';
+import 'package:flutkit/helpers/widgets/my_progress_bar.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

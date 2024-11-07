@@ -1,8 +1,8 @@
-import './dating/models/profile.dart';
-import './dating/views/matched_profile_screen.dart';
-import './dating/views/profile_screen.dart';
-import './dating/views/single_chat_screen.dart';
-import './dating/views/single_profile_screen.dart';
+import 'package:flutkit/full_apps/other/dating/models/profile.dart';
+import 'package:flutkit/full_apps/other/dating/views/matched_profile_screen.dart';
+import 'package:flutkit/full_apps/other/dating/views/profile_screen.dart';
+import 'package:flutkit/full_apps/other/dating/views/single_chat_screen.dart';
+import 'package:flutkit/full_apps/other/dating/views/single_profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

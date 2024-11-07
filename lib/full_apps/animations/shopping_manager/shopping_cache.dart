@@ -1,5 +1,5 @@
-import './ions/shopping_manager/model/order.dart';
-import './ions/shopping_manager/model/product.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/model/order.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/model/product.dart';
 
 class ShoppingCache {
   static List<Product>? products;

@@ -1,9 +1,9 @@
-import './estaurant_screen.dart';
-import './p_notifier.dart';
-import './p_theme.dart';
-import './my_card.dart';
-import './my_star_rating.dart';
-import './my_text.dart';
+import 'package:flutkit/apps/food/food_restaurant_screen.dart';
+import 'package:flutkit/helpers/theme/app_notifier.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_card.dart';
+import 'package:flutkit/helpers/widgets/my_star_rating.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:lucide_icons/lucide_icons.dart';

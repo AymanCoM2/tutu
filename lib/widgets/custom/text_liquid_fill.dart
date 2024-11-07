@@ -5,8 +5,8 @@
 
 import 'dart:math';
 
-import 'helpers/widgets/my_text.dart';
-import 'helpers/widgets/my_text_style.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/widgets/my_text_style.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 

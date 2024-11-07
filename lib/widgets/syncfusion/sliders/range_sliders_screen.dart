@@ -1,15 +1,15 @@
-import 'helpers/extensions/extensions.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_text.dart';
-import 'widgets/syncfusion/sliders/range_sliders/range_slider_interval_screen.dart';
-import 'widgets/syncfusion/sliders/range_sliders/range_slider_label_screen.dart';
-import 'widgets/syncfusion/sliders/range_sliders/range_slider_step_screen.dart';
-import 'widgets/syncfusion/sliders/range_sliders/range_slider_tooltip_screen.dart';
-import 'widgets/syncfusion/sliders/range_sliders/vertical_range_slider_interval_screen.dart';
-import 'widgets/syncfusion/sliders/range_sliders/vertical_range_slider_label_screen.dart';
-import 'widgets/syncfusion/sliders/range_sliders/vertical_range_slider_step_screen.dart';
-import 'widgets/syncfusion/sliders/range_sliders/vertical_range_slider_tooltip_screen.dart';
+import 'package:flutkit/helpers/extensions/extensions.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/syncfusion/sliders/range_sliders/range_slider_interval_screen.dart';
+import 'package:flutkit/widgets/syncfusion/sliders/range_sliders/range_slider_label_screen.dart';
+import 'package:flutkit/widgets/syncfusion/sliders/range_sliders/range_slider_step_screen.dart';
+import 'package:flutkit/widgets/syncfusion/sliders/range_sliders/range_slider_tooltip_screen.dart';
+import 'package:flutkit/widgets/syncfusion/sliders/range_sliders/vertical_range_slider_interval_screen.dart';
+import 'package:flutkit/widgets/syncfusion/sliders/range_sliders/vertical_range_slider_label_screen.dart';
+import 'package:flutkit/widgets/syncfusion/sliders/range_sliders/vertical_range_slider_step_screen.dart';
+import 'package:flutkit/widgets/syncfusion/sliders/range_sliders/vertical_range_slider_tooltip_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

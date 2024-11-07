@@ -1,10 +1,10 @@
-import './al_post_screen.dart';
-import './al_profile_screen.dart';
-import './al_status_screen.dart';
-import './p_theme.dart';
-import './nerator.dart';
-import './my_spacing.dart';
-import './my_text.dart';
+import 'package:flutkit/apps/social/social_post_screen.dart';
+import 'package:flutkit/apps/social/social_profile_screen.dart';
+import 'package:flutkit/apps/social/social_status_screen.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/generator.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

@@ -1,6 +1,6 @@
-import './ions/nft/models/coin.dart';
-import './ions/nft/nft_cache.dart';
-import './ions/nft/views/single_coin_screen.dart';
+import 'package:flutkit/full_apps/animations/nft/models/coin.dart';
+import 'package:flutkit/full_apps/animations/nft/nft_cache.dart';
+import 'package:flutkit/full_apps/animations/nft/views/single_coin_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

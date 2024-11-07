@@ -1,7 +1,8 @@
-import 'helpers/theme/app_theme.dart';
-import 'helpers/utils/constant_data.dart';
-import 'helpers/utils/my_shadow.dart';
-import 'helpers/widgets/my_spacing.dart';
+
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/constant_data.dart';
+import 'package:flutkit/helpers/utils/my_shadow.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
 import 'package:flutter/material.dart';
 
 class MyCard extends StatelessWidget {
@@ -21,86 +22,86 @@ class MyCard extends StatelessWidget {
 
   const MyCard(
       {Key? key,
-      required this.child,
-      this.borderRadius,
-      this.padding,
-      this.borderRadiusAll,
-      this.color,
-      this.paddingAll,
-      this.onTap,
-      this.border,
-      this.bordered = false,
-      this.clipBehavior,
-      this.boxShape,
-      this.shadow,
-      this.marginAll,
-      this.margin,
-      this.splashColor,
-      this.width,
-      this.height})
+        required this.child,
+        this.borderRadius,
+        this.padding,
+        this.borderRadiusAll,
+        this.color,
+        this.paddingAll,
+        this.onTap,
+        this.border,
+        this.bordered = false,
+        this.clipBehavior,
+        this.boxShape,
+        this.shadow,
+        this.marginAll,
+        this.margin,
+        this.splashColor,
+        this.width,
+        this.height})
       : super(key: key);
 
   const MyCard.bordered(
       {Key? key,
-      required this.child,
-      this.borderRadius,
-      this.padding,
-      this.borderRadiusAll,
-      this.color,
-      this.paddingAll,
-      this.onTap,
-      this.border,
-      this.bordered = true,
-      this.clipBehavior,
-      this.boxShape,
-      this.shadow,
-      this.marginAll,
-      this.margin,
-      this.splashColor,
-      this.width,
-      this.height})
+        required this.child,
+        this.borderRadius,
+        this.padding,
+        this.borderRadiusAll,
+        this.color,
+        this.paddingAll,
+        this.onTap,
+        this.border,
+        this.bordered = true,
+        this.clipBehavior,
+        this.boxShape,
+        this.shadow,
+        this.marginAll,
+        this.margin,
+        this.splashColor,
+        this.width,
+        this.height})
       : super(key: key);
 
   const MyCard.circular(
       {Key? key,
-      required this.child,
-      this.borderRadius,
-      this.padding,
-      this.borderRadiusAll,
-      this.color,
-      this.paddingAll,
-      this.onTap,
-      this.border,
-      this.bordered = false,
-      this.clipBehavior = Clip.antiAliasWithSaveLayer,
-      this.boxShape,
-      this.shadow,
-      this.marginAll,
-      this.margin,
-      this.splashColor,
-      this.width,
-      this.height})
+        required this.child,
+        this.borderRadius,
+        this.padding,
+        this.borderRadiusAll,
+        this.color,
+        this.paddingAll,
+        this.onTap,
+        this.border,
+        this.bordered = false,
+        this.clipBehavior = Clip.antiAliasWithSaveLayer,
+        this.boxShape,
+        this.shadow,
+        this.marginAll,
+        this.margin,
+        this.splashColor,
+        this.width,
+        this.height})
       : super(key: key);
 
   const MyCard.none(
       {Key? key,
-      required this.child,
-      this.borderRadius,
-      this.padding,
-      this.borderRadiusAll = 0,
-      this.color,
-      this.paddingAll = 0,
-      this.onTap,
-      this.border,
-      this.bordered = false,
-      this.clipBehavior = Clip.antiAliasWithSaveLayer,
-      this.boxShape = BoxShape.rectangle,
-      this.shadow,
-      this.marginAll,
-      this.margin,
-      this.splashColor,
-      this.width,
-      this.height})
+        required this.child,
+        this.borderRadius,
+        this.padding,
+        this.borderRadiusAll = 0,
+        this.color,
+        this.paddingAll = 0,
+        this.onTap,
+        this.border,
+        this.bordered = false,
+        this.clipBehavior = Clip.antiAliasWithSaveLayer,
+        this.boxShape = BoxShape.rectangle,
+        this.shadow,
+        this.marginAll,
+        this.margin,
+        this.splashColor,
+        this.width,
+        this.height})
       : super(key: key);
 
   @override
@@ -109,8 +110,7 @@ class MyCard extends StatelessWidget {
     return InkWell(
       borderRadius: boxShape != BoxShape.circle
           ? borderRadius ??
-              BorderRadius.all(Radius.circular(
-                  borderRadiusAll ?? MyConstant.constant.cardRadius))
+          BorderRadius.all(Radius.circular(borderRadiusAll ?? MyConstant.constant.cardRadius))
           : null,
       splashColor: splashColor ?? Colors.transparent,
       highlightColor: splashColor ?? Colors.transparent,
@@ -123,17 +123,13 @@ class MyCard extends StatelessWidget {
             color: color ?? theme.cardTheme.color,
             borderRadius: boxShape != BoxShape.circle
                 ? borderRadius ??
-                    BorderRadius.all(Radius.circular(
-                        borderRadiusAll ?? MyConstant.constant.cardRadius))
+                BorderRadius.all(Radius.circular(borderRadiusAll ?? MyConstant.constant.cardRadius))
                 : null,
-            border: bordered
-                ? border ?? Border.all(color: theme.dividerColor, width: 1)
-                : null,
+            border: bordered ? border ?? Border.all(color: theme.dividerColor, width: 1) : null,
             shape: boxShape ?? BoxShape.rectangle,
             boxShadow: [
               BoxShadow(
-                  color: myShadow.color ??
-                      theme.shadowColor.withAlpha(myShadow.alpha),
+                  color: myShadow.color ?? theme.shadowColor.withAlpha(myShadow.alpha),
                   spreadRadius: myShadow.spreadRadius,
                   blurRadius: myShadow.blurRadius,
                   offset: myShadow.offset!)

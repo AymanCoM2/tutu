@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import './ions/shopping/models/product.dart';
-import './ns/extensions.dart';
+import 'package:flutkit/full_apps/animations/shopping/models/product.dart';
+import 'package:flutkit/helpers/extensions/extensions.dart';
 import 'package:flutter/services.dart';
 
 class Cart {

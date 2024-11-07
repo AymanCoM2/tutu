@@ -1,4 +1,4 @@
-import './emade/models/chat.dart';
+import 'package:flutkit/full_apps/m3/homemade/models/chat.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

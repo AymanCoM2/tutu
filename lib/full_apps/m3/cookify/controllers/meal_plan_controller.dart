@@ -1,5 +1,5 @@
-import './kify/models/date_time.dart';
-import './kify/models/meal_plan.dart';
+import 'package:flutkit/full_apps/m3/cookify/models/date_time.dart';
+import 'package:flutkit/full_apps/m3/cookify/models/meal_plan.dart';
 import 'package:get/get.dart';
 
 class MealPlanController extends GetxController {

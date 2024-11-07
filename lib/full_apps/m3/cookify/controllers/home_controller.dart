@@ -1,5 +1,5 @@
-import './kify/models/recipe.dart';
-import './kify/views/recipe_screen.dart';
+import 'package:flutkit/full_apps/m3/cookify/models/recipe.dart';
+import 'package:flutkit/full_apps/m3/cookify/views/recipe_screen.dart';
 import 'package:get/get.dart';
 
 class HomeController extends GetxController {

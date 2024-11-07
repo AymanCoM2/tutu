@@ -3,13 +3,13 @@
 * Version : 1.0.0
 * */
 
-import 'images.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/utils/my_shadow.dart';
-import 'helpers/widgets/my_card.dart';
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_text.dart';
-import 'helpers/widgets/my_text_style.dart';
+import 'package:flutkit/images.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/my_shadow.dart';
+import 'package:flutkit/helpers/widgets/my_card.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/widgets/my_text_style.dart';
 import 'package:flutter/material.dart';
 
 class CommentDialog extends StatefulWidget {

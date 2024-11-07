@@ -1,11 +1,11 @@
-import './muvi/controllers/home_controller.dart';
-import './muvi/models/movie.dart';
-import './p_theme.dart';
-import './my_container.dart';
-import './my_spacing.dart';
-import './my_star_rating.dart';
-import './my_text.dart';
-import './art';
+import 'package:flutkit/full_apps/other/muvi/controllers/home_controller.dart';
+import 'package:flutkit/full_apps/other/muvi/models/movie.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_container.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_star_rating.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/loading_effect.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

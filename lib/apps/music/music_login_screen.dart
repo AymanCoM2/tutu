@@ -3,14 +3,14 @@
 * Version : 1.0.0
 * */
 
-import './_full_app.dart';
-import './_password_screen.dart';
-import './_register_screen.dart';
-import './p_theme.dart';
-import './my_button.dart';
-import './my_spacing.dart';
-import './my_text.dart';
-import './my_text_style.dart';
+import 'package:flutkit/apps/music/music_full_app.dart';
+import 'package:flutkit/apps/music/music_password_screen.dart';
+import 'package:flutkit/apps/music/music_register_screen.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_button.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/widgets/my_text_style.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';

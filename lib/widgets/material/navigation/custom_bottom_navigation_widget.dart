@@ -4,10 +4,10 @@
 * Description :
 * */
 
-import 'helpers/extensions/widgets_extension.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_text.dart';
-import 'widgets/custom/navigation/custom_bottom_navigation.dart';
+import 'package:flutkit/helpers/extensions/widgets_extension.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/custom/navigation/custom_bottom_navigation.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

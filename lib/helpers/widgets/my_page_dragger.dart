@@ -3,7 +3,7 @@
 import 'dart:async';
 import 'dart:ui';
 
-import 'helpers/widgets/my_page_indicator.dart';
+import 'package:flutkit/helpers/widgets/my_page_indicator.dart';
 import 'package:flutter/material.dart';
 
 class MyPageDragger extends StatefulWidget {

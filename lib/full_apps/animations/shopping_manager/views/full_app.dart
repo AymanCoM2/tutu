@@ -1,8 +1,8 @@
-import './ions/shopping_manager/controllers/full_app_controller.dart';
-import './p_theme.dart';
-import './my_container.dart';
-import './my_spacing.dart';
-import './my_tab_indicator_style.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/controllers/full_app_controller.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_container.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_tab_indicator_style.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,4 +1,4 @@
-import './eme_type.dart';
+import 'package:flutkit/helpers/theme/theme_type.dart';
 
 extension ThemeExtension on ThemeType {
   String get toText {

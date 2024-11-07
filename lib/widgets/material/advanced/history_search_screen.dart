@@ -5,13 +5,13 @@
 
 import 'dart:async';
 
-import 'helpers/extensions/widgets_extension.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/utils/my_shadow.dart';
-import 'helpers/widgets/my_card.dart';
-import 'helpers/widgets/my_container.dart';
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/extensions/widgets_extension.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/my_shadow.dart';
+import 'package:flutkit/helpers/widgets/my_card.dart';
+import 'package:flutkit/helpers/widgets/my_container.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

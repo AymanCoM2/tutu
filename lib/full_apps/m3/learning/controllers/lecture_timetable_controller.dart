@@ -1,4 +1,4 @@
-import './rning/models/lecture.dart';
+import 'package:flutkit/full_apps/m3/learning/models/lecture.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:get/get.dart';

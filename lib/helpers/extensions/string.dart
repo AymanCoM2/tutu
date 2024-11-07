@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import './tions/translator.dart';
+import 'package:flutkit/helpers/localizations/translator.dart';
 
 extension StringUtil on String {
   Color get toColor {

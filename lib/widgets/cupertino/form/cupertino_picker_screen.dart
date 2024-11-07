@@ -3,8 +3,8 @@
 * Version : 1.0.0
 * */
 
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

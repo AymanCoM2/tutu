@@ -1,4 +1,4 @@
-import './rning/models/pricing.dart';
+import 'package:flutkit/full_apps/m3/learning/models/pricing.dart';
 import 'package:get/get.dart';
 
 class SubscriptionController extends GetxController {

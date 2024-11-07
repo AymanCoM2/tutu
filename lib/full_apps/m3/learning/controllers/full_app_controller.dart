@@ -1,5 +1,5 @@
 import 'package:boxicons/boxicons.dart';
-import './rning/views/lecture_timetable_screen.dart';
+import 'package:flutkit/full_apps/m3/learning/views/lecture_timetable_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

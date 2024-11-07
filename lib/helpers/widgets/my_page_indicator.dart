@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'helpers/widgets/my_pages.dart';
+import 'package:flutkit/helpers/widgets/my_pages.dart';
 import 'package:flutter/material.dart';
 
 class MyPagerIndicator extends StatelessWidget {

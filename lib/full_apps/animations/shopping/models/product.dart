@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import './ns/string.dart';
+import 'package:flutkit/helpers/extensions/string.dart';
 import 'package:flutter/services.dart';
 
 class Product {

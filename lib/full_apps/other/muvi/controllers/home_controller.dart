@@ -1,8 +1,8 @@
 import 'package:get/get.dart';
 
-import './muvi/models/movie.dart';
-import './muvi/views/single_movie_screen.dart';
-import './muvi/views/subscription_screen.dart';
+import 'package:flutkit/full_apps/other/muvi/models/movie.dart';
+import 'package:flutkit/full_apps/other/muvi/views/single_movie_screen.dart';
+import 'package:flutkit/full_apps/other/muvi/views/subscription_screen.dart';
 
 class HomeController extends GetxController {
   bool showLoading = true, uiLoading = true;

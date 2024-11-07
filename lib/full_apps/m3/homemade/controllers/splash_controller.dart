@@ -1,5 +1,5 @@
-import './emade/views/login_screen.dart';
-import './emade/views/register_screen.dart';
+import 'package:flutkit/full_apps/m3/homemade/views/login_screen.dart';
+import 'package:flutkit/full_apps/m3/homemade/views/register_screen.dart';
 import 'package:get/get.dart';
 
 class SplashController extends GetxController {

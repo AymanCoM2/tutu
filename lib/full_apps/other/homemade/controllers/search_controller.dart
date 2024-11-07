@@ -1,4 +1,4 @@
-import './homemade/models/product.dart';
+import 'package:flutkit/full_apps/other/homemade/models/product.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,6 +1,6 @@
-import 'helpers/theme/app_theme.dart';
-import 'helpers/utils/constant_data.dart';
-import 'helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/constant_data.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
 import 'package:flutter/material.dart';
 
 class MyContainer extends StatelessWidget {

@@ -1,13 +1,13 @@
-import './ate/controllers/home_controller.dart';
-import './ate/models/category.dart';
-import './ate/models/house.dart';
-import './p_theme.dart';
-import './nstant.dart';
-import './my_button.dart';
-import './my_container.dart';
-import './my_spacing.dart';
-import './my_text.dart';
-import './art';
+import 'package:flutkit/full_apps/m3/estate/controllers/home_controller.dart';
+import 'package:flutkit/full_apps/m3/estate/models/category.dart';
+import 'package:flutkit/full_apps/m3/estate/models/house.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/theme/constant.dart';
+import 'package:flutkit/helpers/widgets/my_button.dart';
+import 'package:flutkit/helpers/widgets/my_container.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/loading_effect.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

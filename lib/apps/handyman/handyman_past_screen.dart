@@ -1,8 +1,8 @@
-import './ndyman_rating_screen.dart';
-import './p_theme.dart';
-import './nerator.dart';
-import './my_spacing.dart';
-import './my_text.dart';
+import 'package:flutkit/apps/handyman/handyman_rating_screen.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/generator.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

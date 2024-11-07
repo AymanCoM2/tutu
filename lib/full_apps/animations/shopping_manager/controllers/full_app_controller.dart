@@ -1,7 +1,7 @@
-import './ions/shopping_manager/views/dashboard_screen.dart';
-import './ions/shopping_manager/views/orders_screen.dart';
-import './ions/shopping_manager/views/products_screen.dart';
-import './ions/shopping_manager/views/profile_screen.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/views/dashboard_screen.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/views/orders_screen.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/views/products_screen.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/views/profile_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';

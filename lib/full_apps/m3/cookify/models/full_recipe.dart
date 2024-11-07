@@ -1,5 +1,5 @@
-import './kify/models/ingredient.dart';
-import './kify/models/nutrition.dart';
+import 'package:flutkit/full_apps/m3/cookify/models/ingredient.dart';
+import 'package:flutkit/full_apps/m3/cookify/models/nutrition.dart';
 
 class FullRecipe {
   final String title, body, image;

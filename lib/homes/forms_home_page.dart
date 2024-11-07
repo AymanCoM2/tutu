@@ -3,20 +3,20 @@
 * Version : 1.0.0
 * */
 
-import './p_theme.dart';
-import './my_spacing.dart';
-import './my_text.dart';
-import './/form/address_form_widget.dart';
-import './/form/checkbox_widget.dart';
-import './/form/date_picker_widget.dart';
-import './/form/feedback_form_widget.dart';
-import './/form/form_widget.dart';
-import './/form/personal_information_form_widget.dart';
-import './/form/radio_widget.dart';
-import './/form/slider_widget.dart';
-import './/form/switch_widget.dart';
-import './/form/text_field_widget.dart';
-import './/form/time_picker_widget.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/material/form/address_form_widget.dart';
+import 'package:flutkit/widgets/material/form/checkbox_widget.dart';
+import 'package:flutkit/widgets/material/form/date_picker_widget.dart';
+import 'package:flutkit/widgets/material/form/feedback_form_widget.dart';
+import 'package:flutkit/widgets/material/form/form_widget.dart';
+import 'package:flutkit/widgets/material/form/personal_information_form_widget.dart';
+import 'package:flutkit/widgets/material/form/radio_widget.dart';
+import 'package:flutkit/widgets/material/form/slider_widget.dart';
+import 'package:flutkit/widgets/material/form/switch_widget.dart';
+import 'package:flutkit/widgets/material/form/text_field_widget.dart';
+import 'package:flutkit/widgets/material/form/time_picker_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';

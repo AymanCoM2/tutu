@@ -1,5 +1,5 @@
-import './rning/models/course.dart';
-import './rning/models/mentor.dart';
+import 'package:flutkit/full_apps/m3/learning/models/course.dart';
+import 'package:flutkit/full_apps/m3/learning/models/mentor.dart';
 import 'package:get/get.dart';
 
 class ExploreController extends GetxController {

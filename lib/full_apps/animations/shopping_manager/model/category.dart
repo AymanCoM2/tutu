@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './ns/extensions.dart';
+import 'package:flutkit/helpers/extensions/extensions.dart';
 
 class Category {
   String name;

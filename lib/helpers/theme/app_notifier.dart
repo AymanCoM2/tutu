@@ -3,10 +3,10 @@
 * Version : 1.0.0
 * */
 
-import 'helpers/extensions/theme_extension.dart';
-import 'helpers/localizations/language.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/theme/theme_type.dart';
+import 'package:flutkit/helpers/extensions/theme_extension.dart';
+import 'package:flutkit/helpers/localizations/language.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/theme/theme_type.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

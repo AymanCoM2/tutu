@@ -1,5 +1,5 @@
-import 'animations/intro_tour/intro_controller.dart';
-import 'helpers/widgets/my_text.dart';
+import 'package:flutkit/animations/intro_tour/intro_controller.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lucide_icons/lucide_icons.dart';

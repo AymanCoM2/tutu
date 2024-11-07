@@ -1,5 +1,5 @@
-import './ions/rental_service/models/car.dart';
-import './ions/rental_service/views/payment_screen.dart';
+import 'package:flutkit/full_apps/animations/rental_service/models/car.dart';
+import 'package:flutkit/full_apps/animations/rental_service/views/payment_screen.dart';
 import 'package:get/get.dart';
 
 class SingleCarController extends GetxController {

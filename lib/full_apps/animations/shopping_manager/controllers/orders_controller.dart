@@ -1,7 +1,7 @@
-import './ions/shopping_manager/model/order.dart';
-import './ions/shopping_manager/shopping_cache.dart';
-import './ions/shopping_manager/views/order_screen.dart';
-import './nstant.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/model/order.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/shopping_cache.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/views/order_screen.dart';
+import 'package:flutkit/helpers/theme/constant.dart';
 import 'package:get/get.dart';
 
 enum OrderViewType { active, past }

@@ -1,5 +1,5 @@
-import './nstant.dart';
-import './on/data/charts_sample_data.dart';
+import 'package:flutkit/helpers/theme/constant.dart';
+import 'package:flutkit/widgets/syncfusion/data/charts_sample_data.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
 

@@ -1,4 +1,4 @@
-import './ions/shopping/models/subscription.dart';
+import 'package:flutkit/full_apps/animations/shopping/models/subscription.dart';
 import 'package:get/get.dart';
 
 class SubscriptionController extends GetxController {

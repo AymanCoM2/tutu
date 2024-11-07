@@ -3,15 +3,15 @@
 * Version : 1.0.0
 * */
 
-import './opping_password_screen.dart';
-import './opping_register_screen.dart';
-import './shopping/full_app.dart';
-import './p_theme.dart';
-import './my_button.dart';
-import './my_container.dart';
-import './my_spacing.dart';
-import './my_text.dart';
-import './my_text_style.dart';
+import 'package:flutkit/apps/shopping/shopping_password_screen.dart';
+import 'package:flutkit/apps/shopping/shopping_register_screen.dart';
+import 'package:flutkit/full_apps/other/shopping/full_app.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_button.dart';
+import 'package:flutkit/helpers/widgets/my_container.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/widgets/my_text_style.dart';
 import 'package:flutter/material.dart';
 
 class ShoppingLoginScreen extends StatefulWidget {

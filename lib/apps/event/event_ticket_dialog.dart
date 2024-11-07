@@ -1,7 +1,7 @@
-import './p_theme.dart';
-import './my_dashed_divider.dart';
-import './my_spacing.dart';
-import './my_text.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_dashed_divider.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 
 class EventTicketDialog extends StatefulWidget {

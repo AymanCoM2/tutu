@@ -1,6 +1,6 @@
-import './ions/shopping_manager/views/full_app.dart';
-import './ions/shopping_manager/views/register_screen.dart';
-import './_string_utils.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/views/full_app.dart';
+import 'package:flutkit/full_apps/animations/shopping_manager/views/register_screen.dart';
+import 'package:flutkit/helpers/utils/my_string_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

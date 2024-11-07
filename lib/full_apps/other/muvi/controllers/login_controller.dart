@@ -1,6 +1,6 @@
-import './muvi/views/forgot_password_screen.dart';
-import './muvi/views/full_app.dart';
-import './muvi/views/register_screen.dart';
+import 'package:flutkit/full_apps/other/muvi/views/forgot_password_screen.dart';
+import 'package:flutkit/full_apps/other/muvi/views/full_app.dart';
+import 'package:flutkit/full_apps/other/muvi/views/register_screen.dart';
 import 'package:get/get.dart';
 
 class LoginController extends GetxController {

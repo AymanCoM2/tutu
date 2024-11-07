@@ -1,9 +1,9 @@
 import 'package:get/get.dart';
 
-import './estate/models/agent.dart';
-import './estate/models/chat.dart';
-import './estate/models/house.dart';
-import './estate/views/single_chat_screen.dart';
+import 'package:flutkit/full_apps/other/estate/models/agent.dart';
+import 'package:flutkit/full_apps/other/estate/models/chat.dart';
+import 'package:flutkit/full_apps/other/estate/models/house.dart';
+import 'package:flutkit/full_apps/other/estate/views/single_chat_screen.dart';
 
 class EstateSingleAgentController extends GetxController {
   bool showLoading = true, uiLoading = true;

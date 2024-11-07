@@ -5,11 +5,11 @@
 
 import 'dart:async';
 
-import 'helpers/theme/app_theme.dart';
-import 'helpers/utils/generator.dart';
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_star_rating.dart';
-import 'helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/generator.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_star_rating.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 import 'package:lucide_icons/lucide_icons.dart';

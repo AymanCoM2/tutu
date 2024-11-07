@@ -3,15 +3,15 @@
 * Version : 1.0.0
 * */
 
-import './grocery/cart_screen.dart';
-import './grocery/home_screen.dart';
-import './grocery/profile_screen.dart';
-import './grocery/search_screen.dart';
-import './p_notifier.dart';
-import './p_theme.dart';
-import './my_spacing.dart';
-import './my_text.dart';
-import './my_text_style.dart';
+import 'package:flutkit/full_apps/other/grocery/cart_screen.dart';
+import 'package:flutkit/full_apps/other/grocery/home_screen.dart';
+import 'package:flutkit/full_apps/other/grocery/profile_screen.dart';
+import 'package:flutkit/full_apps/other/grocery/search_screen.dart';
+import 'package:flutkit/helpers/theme/app_notifier.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/widgets/my_text_style.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:lucide_icons/lucide_icons.dart';

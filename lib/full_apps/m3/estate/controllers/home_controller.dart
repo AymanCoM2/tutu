@@ -1,6 +1,6 @@
-import './ate/models/category.dart';
-import './ate/models/house.dart';
-import './ate/views/single_estate_screen.dart';
+import 'package:flutkit/full_apps/m3/estate/models/category.dart';
+import 'package:flutkit/full_apps/m3/estate/models/house.dart';
+import 'package:flutkit/full_apps/m3/estate/views/single_estate_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

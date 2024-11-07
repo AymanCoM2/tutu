@@ -5,8 +5,8 @@
 
 import 'dart:async';
 
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 
 class RefreshList extends StatefulWidget {

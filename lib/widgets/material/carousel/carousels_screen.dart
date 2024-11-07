@@ -1,11 +1,11 @@
-import 'helpers/extensions/widgets_extension.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_text.dart';
-import 'widgets/material/carousel/animated_carousel.dart';
-import 'widgets/material/carousel/hotel_carousel.dart';
-import 'widgets/material/carousel/news_carousel.dart';
-import 'widgets/material/carousel/simple_carousel.dart';
+import 'package:flutkit/helpers/extensions/widgets_extension.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/material/carousel/animated_carousel.dart';
+import 'package:flutkit/widgets/material/carousel/hotel_carousel.dart';
+import 'package:flutkit/widgets/material/carousel/news_carousel.dart';
+import 'package:flutkit/widgets/material/carousel/simple_carousel.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

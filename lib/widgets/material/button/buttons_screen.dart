@@ -1,13 +1,13 @@
-import 'helpers/extensions/widgets_extension.dart';
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_text.dart';
-import 'widgets/material/button/action_text_fab.dart';
-import 'widgets/material/button/animated_icon_screen.dart';
-import 'widgets/material/button/extended_fab.dart';
-import 'widgets/material/button/flutx_buttons_screen.dart';
-import 'widgets/material/button/icon_button_screen.dart';
-import 'widgets/material/button/positioned_fab.dart';
-import 'widgets/material/button/toggle_button_screen.dart';
+import 'package:flutkit/helpers/extensions/widgets_extension.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
+import 'package:flutkit/widgets/material/button/action_text_fab.dart';
+import 'package:flutkit/widgets/material/button/animated_icon_screen.dart';
+import 'package:flutkit/widgets/material/button/extended_fab.dart';
+import 'package:flutkit/widgets/material/button/flutx_buttons_screen.dart';
+import 'package:flutkit/widgets/material/button/icon_button_screen.dart';
+import 'package:flutkit/widgets/material/button/positioned_fab.dart';
+import 'package:flutkit/widgets/material/button/toggle_button_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

@@ -3,10 +3,10 @@
 * Version : 1.0.0
 * */
 
-import 'helpers/theme/app_theme.dart';
-import 'helpers/widgets/my_button.dart';
-import 'helpers/widgets/my_spacing.dart';
-import 'helpers/widgets/my_text.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/widgets/my_button.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 
@@ -153,8 +153,7 @@ class _DateTimePickerScreenState extends State<DateTimePickerScreen> {
           borderRadiusAll: 4,
           onPressed: () {
             _pickTime24(context);
-          },
-          padding: MySpacing.xy(18, 16),
+          }, padding: MySpacing.xy(18, 16),
           child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             mainAxisSize: MainAxisSize.min,

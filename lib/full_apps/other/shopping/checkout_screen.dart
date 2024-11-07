@@ -1,13 +1,13 @@
-import './shopping/address_screen.dart';
-import './shopping/coupon_screen.dart';
-import './shopping/order_place_screen.dart';
-import './p_theme.dart';
-import './_shadow.dart';
-import './my_button.dart';
-import './my_card.dart';
-import './my_container.dart';
-import './my_spacing.dart';
-import './my_text.dart';
+import 'package:flutkit/full_apps/other/shopping/address_screen.dart';
+import 'package:flutkit/full_apps/other/shopping/coupon_screen.dart';
+import 'package:flutkit/full_apps/other/shopping/order_place_screen.dart';
+import 'package:flutkit/helpers/theme/app_theme.dart';
+import 'package:flutkit/helpers/utils/my_shadow.dart';
+import 'package:flutkit/helpers/widgets/my_button.dart';
+import 'package:flutkit/helpers/widgets/my_card.dart';
+import 'package:flutkit/helpers/widgets/my_container.dart';
+import 'package:flutkit/helpers/widgets/my_spacing.dart';
+import 'package:flutkit/helpers/widgets/my_text.dart';
 import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 

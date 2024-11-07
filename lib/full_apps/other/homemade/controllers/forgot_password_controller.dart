@@ -1,5 +1,5 @@
-import './homemade/views/full_app.dart';
-import './homemade/views/register_screen.dart';
+import 'package:flutkit/full_apps/other/homemade/views/full_app.dart';
+import 'package:flutkit/full_apps/other/homemade/views/register_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
